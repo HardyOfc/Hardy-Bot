@@ -14,6 +14,8 @@ RUN npm install && npm install qrcode-terminal
 
 COPY . .
 
+RUN chmod +x storage/images/*
+
 EXPOSE 5000
 
 CMD ["node", "index.js", "--server"]
