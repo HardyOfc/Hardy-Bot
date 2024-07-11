@@ -25,9 +25,9 @@ global.titulowm2 = `Hardy - Bot`
 global.igfg = 'Hardy - Bot';
 global.wait = '*[ ⏳ ] جاري التحميل...*';
 
-global.imagen1 = fs.readFileSync('./storage/images/logo.jpg');
-global.imagen2 = fs.readFileSync('./storage/images/logo.png');
-global.imagen3 = fs.readFileSync('./storage/images/newbot.jpg');
+global.imagen1 = fs.readFileSync('./storage/images/menu.png');
+global.imagen2 = fs.readFileSync('./storage/images/logo_black.png');
+global.imagen3 = fs.readFileSync('./storage/images/logo_white.jpg');
 
 global.mods = [];
 
