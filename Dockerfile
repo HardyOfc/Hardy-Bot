@@ -21,4 +21,4 @@ RUN chmod +x storage/images/*
 
 EXPOSE 5000
 
-CMD ["node", "index.js", "--server"]
+CMD ["pm2", "index.js", "logs"]
