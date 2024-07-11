@@ -16,9 +16,9 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     // const pp = imagen7;
 
     // let vn = './media/menu.mp3'
-    const img = './Menu2.jpg';
+    const img = './storage/images/menu.png';
     const d = new Date(new Date + 3600000);
-    const locale = 'es-ES';
+    const locale = 'ar-MA';
     const week = d.toLocaleDateString(locale, { weekday: 'long' });
     const date = d.toLocaleDateString(locale, { day: '2-digit', month: '2-digit', year: 'numeric' });
     const _uptime = process.uptime() * 1000;
@@ -37,7 +37,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 
 ${tradutor.texto1[1]} ${taguser}
 
-> ★ Moonlight Team ★
+> ★ HardGamers Team ★
 
 ${tradutor.texto1[2]}
 
@@ -209,8 +209,6 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ├❧ _${usedPrefix}stickerpack *<url>*_
   ├❧ _${usedPrefix}wallpaper *<txt>*_ 
   ├❧ _${usedPrefix}dapk2 *<url>*_
-  ├❧ _${usedPrefix}xnxxdl *<url>*_ (🔞)
-  ├❧ _${usedPrefix}xvideosdl *<url>*_ (🔞)
   ╰───── • ◆ • ─────╯
 
  ${tradutor.texto1[16]}
@@ -221,7 +219,6 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ├❧ _${usedPrefix}modapk *<txt>*_
   ├❧ _${usedPrefix}stickersearch *<txt>*_
   ├❧ _${usedPrefix}stickersearch2 *<txt>*_
-  ├❧ _${usedPrefix}xnxxsearch *<txt>*_
   ├❧ _${usedPrefix}animeinfo *<txt>*_
   ├❧ _${usedPrefix}google *<txt>*_
   ├❧ _${usedPrefix}letra *<txt>*_
@@ -526,17 +523,17 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
     let pp
     // Nouvelles images de menu disponibles 
     if (idioma == 'es') {
-      pp = global.imagen4
+      pp = global.imagen1
     } else if (idioma == 'pt-br') {
-      pp = global.imagen7
+      pp = global.imagen1
     } else if (idioma == 'fr') {
-      pp = global.imagen8
+      pp = global.imagen1
     }else if (idioma == 'en') {
-      pp = global.imagen9
+      pp = global.imagen1
     } else if (idioma == 'ru') {
-      pp = global.imagen10
+      pp = global.imagen1
     } else {
-      pp = global.imagen4 // Imagem Default em espanhol
+      pp = global.imagen1 // Imagem Default em espanhol
     }
 
 
