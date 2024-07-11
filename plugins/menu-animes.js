@@ -8,10 +8,10 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
   const tradutor = _translate.plugins.menu_anime
 
   try {
-    const pp = imagen2;
+    const pp = imagen1;
     // let vn = './media/menu.mp3'
     const d = new Date(new Date + 3600000);
-    const locale = 'es';
+    const locale = 'ar';
     const week = d.toLocaleDateString(locale, {weekday: 'long'});
     const date = d.toLocaleDateString(locale, {day: 'numeric', month: 'long', year: 'numeric'});
     const _uptime = process.uptime() * 1000;
@@ -26,7 +26,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭* —◉
+║    ◉— *Hardy - Bot* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ ${tradutor.texto1[1]}, ${taguser}*
 ╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯
