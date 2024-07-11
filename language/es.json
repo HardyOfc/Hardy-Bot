@@ -1,14 +1,9 @@
 {
     "___creditos": {
         "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/BrunoSobrino"
+        "___Criador": "https://github.com/HardyOfc"
     },
     "plugins": {
-        "_antiarab": {
-            "texto1": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +212. Por lo tanto, serás eliminado del grupo.*",
-            "texto2": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +265. Por lo tanto, serás eliminado del grupo.*",
-            "texto3": "_*< ANTI-ÁRABES />*_\n\n*[ ℹ️ ] En este grupo no se permiten números que comiencen con +92. Por lo tanto, serás eliminado del grupo.*"
-        },
         "_antilink": {
             "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] El antilink está habilitado, pero el participante que envió el enlace es un administrador.*",
             "texto2": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] El participante @user envió un enlace de un grupo de WhatsApp, por lo que será eliminado.*",
@@ -2667,12 +2662,12 @@
                 " ➤ 𝙲𝙻𝙰𝚅𝙴:*",
                 "646180192175788481*",
                 "➤ 𝙱𝙰𝙽𝙲𝙾: STP* ",
-                "➤ 𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: Bruno Sobrino* ",
+                "➤ 𝙱𝙴𝙽𝙴𝙵𝙸𝙲𝙸𝙰𝚁𝙸𝙾: Aymane Touzani* ",
                 "➤ 𝙲𝙾𝙽𝙲𝙴𝙿𝚃𝙾: APOYO*",
-                "➤ 𝙿𝙰𝚈𝙿𝙰𝙻: https://www.paypal.me/TheShadowBrokers133*",
+                "➤ 𝙿𝙰𝚈𝙿𝙰𝙻: https://www.paypal.me/tzaym1*",
                 "👉🏻 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙰𝙼𝙴 𝚂𝙸 𝙽𝙴𝙲𝙴𝚂𝙸𝚃𝙰𝚂*",
                 "𝙼𝙰𝚂 𝙳𝙰𝚃𝙾𝚂 𝚈 𝙿𝙰𝚁𝙰 𝙰𝙶𝚁𝙰𝙳𝙴𝙲𝙴𝚁𝚃𝙴*",
-                "wa.me/5219992095479*"
+                "http://wa.me/212660131536*"
             ]
         },
         "info_estado": {
@@ -2772,12 +2767,12 @@
             "texto1": [
                 "_*< INFO - REPOSITORIO />*_",
                 "▢ *Nombre:*",
-                "TheMystic-Bot-MD",
+                "Hardy-Bot-MD",
                 "▢ *Visitantes:*",
                 "▢ *Tamaño:*",
                 "▢ *Actualización:*",
                 "▢ *URL:*",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+                "https://github.com/HardyOfc/Hardy-Bot",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -2903,14 +2898,14 @@
         },
         "menu_menu": {
             "texto1": [
-                "𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏",
+                "HARDY - BOT",
                 "▢ *Hola,*",
                 "_*< TUS ESTADÍSTICAS />*_",
                 "▢ *Nivel:* ",
                 "▢ *Experiencia:* ",
                 "▢ *Rango:* ",
                 "▢ *Diamantes:* ",
-                "▢ *MysticCoins:* ",
+                "▢ *Coins:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
                 " _*< LISTA DE MENUS />*_",
@@ -3397,7 +3392,7 @@
             "texto1": "『🚓︎』𝙇𝘼 𝙋𝙊𝙇𝙄𝘾𝙄𝘼 𝙀𝙎𝙏𝘼 𝙑𝙄𝙂𝙄𝙇𝘼𝙉𝘿𝙊 𝙀𝙉 𝙀𝙎𝙏𝙀 𝙈𝙊𝙈𝙀𝙉𝙏𝙊, 𝙑𝙐𝙀𝙇𝙑𝙀 𝙀𝙉 :",
             "texto2": [
                 "💎 𝐃𝐈𝐀𝐌𝐀𝐍𝐓𝐄",
-                "👾 𝐌𝐲𝐬𝐭𝐢𝐜𝐂𝐨𝐢𝐧𝐬"
+                "👾 𝐂𝐨𝐢𝐧𝐬"
             ],
             "texto3": [
                 "《💰》Le has robado a",
