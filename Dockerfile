@@ -18,4 +18,4 @@ RUN npm i -g pm2
 
 EXPOSE 5000
 
-CMD ["pm2 start index.js", "pm2 logs"]
+CMD ["node", "index.js", "--server"]
