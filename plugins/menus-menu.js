@@ -55,7 +55,6 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ╭───── • ◆ • ─────╮ 
   ├❧ _${usedPrefix}menuaudios_
   ├❧ _${usedPrefix}menuanimes_
-  ├❧ _${usedPrefix}labiblia_
   ├❧ _${usedPrefix}lang_ 
   ├❧ _${usedPrefix}langgroup_ 
   ├❧ _${usedPrefix}glx_
