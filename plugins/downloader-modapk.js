@@ -27,7 +27,7 @@ for (let index = 0; index< searchA.length; index++) {
   return await conn.sendList(m.chat, `${htki} *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎* ${htka}\n`, `\n𝘽𝙪𝙨𝙦𝙪𝙚𝙙𝙖 𝙙𝙚: ${text}`, `𝗕 𝗨 𝗦 𝗖 𝗔 𝗥`, listSections, fkontak);
 }	
     
-    const data5 = await download(searchA[0].id);
+    const data5 = await download('${text}');
     let response = `${tradutor.texto2[0]} ${data5.name}\n${tradutor.texto2[1]}* ${data5.package}\n${tradutor.texto2[2]} ${data5.lastup}\n${tradutor.texto2[3]} ${data5.size}`
     await conn.sendMessage(m.chat, {image: {url: data5.icon}, caption: response}, {quoted: m});
  if (data5.size.includes('GB') || data5.size.replace(' MB', '') > 999) {
