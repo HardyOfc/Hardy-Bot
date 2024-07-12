@@ -11,7 +11,6 @@ RUN apt-get update && \
 COPY package.json .
 
 RUN npm install && npm install qrcode-terminal
-  yarn install
 
 COPY . .
 
