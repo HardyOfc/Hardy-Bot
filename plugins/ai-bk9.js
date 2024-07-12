@@ -6,10 +6,10 @@ const handler = async (m, {conn, text, command}) => {
   const datas = global;
   const idioma = datas.db.data.users[m.sender].language;
   const _translate = JSON.parse(fs.readFileSync(`./language/${idioma}.json`));
-  const tradutor = _translate.BK9.BK9;
+  const tradutor = _translate.HARDY.AI;
 
-  if (command === 'gpt4') {
-    if (!text) throw `${tradutor.bk9text}`;
+  if (command === 'gpt4' || command === 'chatgpt4') {
+    if (!text) throw `${tradutor.gpt4text}`;
 
     try {
       conn.sendPresenceUpdate('composing', m.chat);
@@ -20,13 +20,13 @@ const handler = async (m, {conn, text, command}) => {
         const respuestaAPI = BK8.BK9;
         conn.reply(m.chat, respuestaAPI, m);
       } else {
-        throw `${tradutor.bk9err}`;
+        throw `${tradutor.gpt4err}`;
       }
     } catch (error) {
-      throw `${tradutor.bk9err}`;
+      throw `${tradutor.gpt4err}`;
     }
-  } else if (command === 'gemini') {
-    if (!text) throw `${tradutor.bk9text}`;
+  } else if (command === 'gemini' || command === 'bard') {
+    if (!text) throw `${tradutor.geminitext}`;
 
     try {
       conn.sendPresenceUpdate('composing', m.chat);
@@ -37,12 +37,12 @@ const handler = async (m, {conn, text, command}) => {
         const respuestaAPI = BK8.BK9;
         conn.reply(m.chat, respuestaAPI, m);
       } else {
-        throw `${tradutor.bk9err}`;
+        throw `${tradutor.geminierr}`;
       }
     } catch (error) {
-      throw `${tradutor.bk9err}`;
+      throw `${tradutor.geminierr}`;
     }
-  } else if (command === 'geminiimg') {
+  } else if (command === 'geminiimg' || command === 'bardimg') {
     let BK7 = m.quoted ? m.quoted : m;
     let BK8 = (BK7.msg || BK7).mimetype || BK7.mediaType || '';
     if (/image/g.test(BK8) && !/webp/g.test(BK8)) {
@@ -51,11 +51,11 @@ const handler = async (m, {conn, text, command}) => {
       let BK9api = await (await fetch(`https://api.bk9.site/ai/geminiimg?url=${BK9img}&q=${text}`)).json();
       conn.sendMessage(m.chat, { text: BK9api.BK9 }, { quoted: m });
     } else {
-      throw `${tradutor.bk9imgtext}`;
+      throw `${tradutor.geminiimgtext}`;
     }
   }
 };
 
-handler.command = ['gpt4', 'gemini', 'geminiimg'];
+handler.command = ['gpt4', 'gemini', 'bard', 'geminiimg', 'bardimg'];
 handler.tags = ['ai'];
 export default handler;
