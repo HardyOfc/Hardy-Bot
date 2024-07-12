@@ -1,14 +1,9 @@
 {
     "___creditos": {
         "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/BrunoSobrino"
+        "___Criador": "https://github.com/HardyOfc"
     },
     "plugins": {
-        "antiarab": {
-            "texto1": "_*< ANTI-ARABS />*_\n\n*[ ℹ️ ] In this group, numbers starting with +212 are not allowed. Therefore, you will be removed from the group.*",
-            "texto2": "_*< ANTI-ARABS />*_\n\n*[ ℹ️ ] In this group, numbers starting with +265 are not allowed. Therefore, you will be removed from the group.*",
-            "texto3": "_*< ANTI-ARABS />*_\n\n*[ ℹ️ ] In this group, numbers starting with +92 are not allowed. Therefore, you will be removed from the group.*"
-        },
         "_antilink": {
             "texto1": "*< ANTI-LINK />*_\n\n*[ ℹ️ ] Antilink is enabled, but the participant who sent the link is an administrator.*",
             "texto2": "_*< ANTI-LINK />*_\n\n*[ ℹ️ ] Participant @user sent a link to a WhatsApp group, so they will be removed.*",
@@ -799,7 +794,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Enter a YouTube link.",
-            "texto2": "🤴🏻 Download by BrunoSobrino & TheMystic-Bot-MD 🤖"
+            "texto2": "🤴🏻 Download by Aymane Touzani & Hardy-Bot 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter the command followed by the YouTube video link*",
@@ -857,7 +852,7 @@
             "texto1": "[❗] Use this command directly in the main Bot number.",
             "texto2": "[❗] Starting the process of deleting all session files, except for creds.json...",
             "texto3": "[❗] The MysticSession folder does not exist or is empty.",
-            "texto4": "[❗] No files to delete were found in the MysticSession folder.",
+            "texto4": "[❗] No files to delete were found in the Session folder.",
             "texto5": [
                 "[❗]",
                 "session files were deleted, except for creds.json."
@@ -2620,7 +2615,7 @@
         },
         "info_creador": {
             "texto1": [
-                "—◉ My creator's number is wa.me/5219992095479",
+                "—◉ My creator's number is wa.me/212660131536",
                 "—◉ Collaborator 1's number is wa.me/34642467703",
                 "—◉ Collaborator 2's number is wa.me/50499698072",
                 "—◉ Collaborator 3's number is wa.me/595986460945",
@@ -2649,20 +2644,20 @@
                 " ➤ KEY:",
                 "646180192175788481",
                 "➤ BANK: STP",
-                "➤ BENEFICIARY: Bruno Sobrino",
+                "➤ BENEFICIARY: Aymane Touzani",
                 "➤ CONCEPT: SUPPORT",
                 "➤ PAYPAL: https://www.paypal.me/TheShadowBrokers133",
                 "👉🏻 CONTACT IF NECESSARY",
                 "MORE DATA AND TO THANK",
-                "wa.me/5219992095479"
+                "wa.me/212660131536"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATION - STATE />*_",
-                "▢ *Owner:* Bruno Sobrino",
-                "▢ *WA:* +5219992095479",
-                "▢ *PayPal:* paypal.me/TheShadowBrokers133",
+                "▢ *Owner:* Aymane Touzani",
+                "▢ *WA:* +212660131536",
+                "▢ *PayPal:* paypal.me/tzaym1",
                 "▢ *Ping:*",
                 "▢ *Uptime:*",
                 "▢ *Prefix:*",
@@ -2754,12 +2749,12 @@
             "texto1": [
                 "_*< INFORMATION - REPOSITORY />*_",
                 "▢ *Name:*",
-                "TheMystic-Bot-MD",
+                "Hardy-Bot",
                 "▢ *Visitors:*",
                 "▢ *Size:*",
                 "▢ *Last update:*",
                 "▢ *URL:*",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+                "https://github.com/HardyOfc/Hardy-Bot",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -2882,14 +2877,14 @@
         },
         "menu_menu": {
             "texto1": [
-                "THE MYSTIC - BOT",
+                "HARDY - BOT",
                 "▢ *Hello,*",
                 "_*< YOUR STATISTICS />*_",
                 "▢ *Level:* ",
                 "▢ *Experience:* ",
                 "▢ *Ranking:* ",
                 "▢ *Diamonds:* ",
-                "▢ *Mystical Coins:* ",
+                "▢ *Coins:* ",
                 "▢ *Tokens:* ",
                 "▢ *Premium:* ",
                 " _*< MENU LIST />*_",
@@ -3365,7 +3360,7 @@
             "texto1": "『🚓』THE POLICE CAUGHT YOU IN THE ACT, YOU'RE IN TROUBLE, YOU LOST :",
             "texto2": [
                 "💎 Diamonds",
-                "👾 Mystic Coins"
+                "👾 Coins"
             ],
             "texto3": [
                 "《💰》You stole from",
@@ -3818,7 +3813,7 @@
             "texto11": [
                 "[ ⚠️ ] Warning",
                 "[ ⚠️ ] Warning",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
+                "https://github.com/HardyOfc/Hardy-Bot"
             ]
         },
         "participantsUpdate": {
@@ -3842,6 +3837,17 @@
             ]
         }
     },
+    "HARDY": {
+        "AI": {
+            "gpt4text": "يـرجـى إدخـال نـص، مـثـال\n .gpt4 مرحبا كيف حالك",
+            "aierr": "حدث خطأ أثناء معالجة طلبك.",
+            "geminitext": "يـرجـى إدخـال نـص، مـثـال\n.bard مرحبا كيف حالك",
+            "geminiimgtext": "قم بالرد على صورة واكتب سؤالك\n\nمثال : .bardimg من هذا ( لا تنسى ترد على صورة )"
+        },
+        "BK9": {
+            "bk9LText_T": "لو تبغاه بدون تخصيص سوي :\n. اختصار وحط رابط\nمثال :\n.اختصار https://bk9.site/\nلو تبغاه بتخصيص سوي :\n.اختصار حط رابط + كلمة\nمثال :\n.اختصار https://bk9.site/ + قروب_الملصقات",
+            "bk9LTaked_T": "هذا التخصيص مأخوذ، جرب اخر."
+        }
     "BK9": {
         "BK9": {
             "bk9dalletext": "Please enter text, for example\n .bk9img A blue house in a picturesque nature",
