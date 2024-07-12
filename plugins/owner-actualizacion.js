@@ -6,8 +6,8 @@ import axios from 'axios';
 let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
-const owner = 'BrunoSobrino';
-const repo = 'TheMystic-Bot-MD';
+const owner = 'HardyOfc';
+const repo = 'Hardy-Bot';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language
@@ -37,6 +37,6 @@ try {
 m.reply(e)
 }
 };
-handler.command = /^(actualizacion|actualizaciones)/i;
+handler.command = /^(update|actualizacion|actualizaciones)/i;
 handler.rowner = true;
 export default handler;
