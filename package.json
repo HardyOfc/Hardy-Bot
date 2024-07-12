@@ -12,6 +12,7 @@
   },
   "scripts": {
     "start": "node index.js",
+    "hex": "yarn install && yarn start"
     "qr": "node index.js qr",
     "code": "node index.js code",
     "test": "node test.js",
