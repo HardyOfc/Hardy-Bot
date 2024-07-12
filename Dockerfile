@@ -14,10 +14,7 @@ RUN npm install && npm install qrcode-terminal
 
 COPY . .
 
-RUN chmod +x storage/images/*
-  npm i -g pm2
-  pm2 index.js
-  pm2 logs
+RUN npm i -g pm2
 
 EXPOSE 5000
 
