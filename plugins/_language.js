@@ -24,23 +24,11 @@ const handler = async (m, { args, usedPrefix, command, isAdmin }) => {
 
         if (command === 'lang') {
             // ----- Opciones de lenguaje
-            if (sigla === 'pt-br' || sigla === 'pt' || sigla === 'br') {
-                global.db.data.users[m.sender].language = 'pt-br'
-                m.reply(`*[ ✅ ] Hardy - Bot*\n\n*—◉* *_Idioma definido em Português 🇧🇷_*`)
-
-            } else if (sigla === 'es') {
-                global.db.data.users[m.sender].language = 'es'
-                m.reply(`*[ ✅ ] Hardy - Bot*\n\n*—◉* *_Idioma definido a Español 🇪🇸_*`)
-
-            } else if (sigla === 'en') {
+            if (sigla === 'en') {
                 global.db.data.users[m.sender].language = 'en'
                 m.reply(`*[ ✅ ] Hardy - Bot*\n\n*—◉* *_Idioma definido a Inglês 🇬🇧_*`)
 
-            } else if (sigla === 'ru') {
-                global.db.data.users[m.sender].language = 'ru'
-                m.reply(`*[ ✅ ] Hardy - Bot*\n\n*—◉* *_Язык установлен на русский 🇷🇺_*`)
-
-            }else if (sigla === 'fr') {
+            } else if (sigla === 'fr') {
                 global.db.data.users[m.sender].language = 'fr'
                 m.reply(`*[ ✅ ] Hardy - Bot*\n\n*—◉* *_Langue définie en Français 🇫🇷_*`)
 
@@ -77,23 +65,11 @@ ${tradutor.texto1[1]}
             }
 
             // ----- Opciones de lenguaje
-            if (sigla === 'pt-br' || sigla === 'pt' || sigla === 'br') {
-                global.db.data.chats[m.chat].language = 'pt-br';
-
-                m.reply(`*[ ✅ ] Configuración del grupo*\n\n*—◉* *_Idioma definido em Português 🇧🇷_*`)
-            } else if (sigla === 'es') {
-                global.db.data.chats[m.chat].language = 'es';
-
-                m.reply(`*[ ✅ ] Configuración del grupo*\n\n*—◉* *_Idioma definido a Español 🇪🇸_*`)
-            } else if (sigla === 'en') {
+            if (sigla === 'en') {
                 global.db.data.chats[m.chat].language = 'en';
 
                 m.reply(`*[ ✅ ] Configuración del grupo*\n\n*—◉* *_Idioma definido a Inglês 🇬🇧_*`)
-            } else if (sigla === 'ru') {
-                global.db.data.chats[m.chat].language = 'ru';
-
-                m.reply(`*[ ✅ ] Hardy - Bot*\n\n*—◉* *_Язык установлен на русский 🇷🇺*`)
-            }else if (sigla === 'fr') {
+            } else if (sigla === 'fr') {
                 global.db.data.chats[m.chat].language = 'fr';
 
                 m.reply(`*[ ✅ ] Configuration du groupe*\n\n*—◉* *_Langue définie en Français 🇫🇷_*`)
