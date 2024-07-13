@@ -1,7 +1,7 @@
 {
     "__creditos": {
         "__Contribuidor": "https://github.com/jeffersonalionco",
-        "__Criador": "https://github.com/BrunoSobrino"
+        "__Criador": "https://github.com/HardyOfc"
     },
     "plugins": {
         "antiarab": {
@@ -2313,7 +2313,7 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ Le numéro de mon créateur est wa.me/5219992095479*",
+                "*—◉ Le numéro de mon créateur est wa.me/212660131536*",
                 "*—◉ Le numéro du collaborateur 1 est wa.me/34642467703*",
                 "*—◉ Le numéro du collaborateur 2 est wa.me/50499698072*",
                 "*—◉ Le numéro du collaborateur 3 est wa.me/595986460945*",
@@ -2342,20 +2342,20 @@
                 " ➤ CLÉ :",
                 "646180192175788481",
                 "➤ BANQUE : STP",
-                "➤ BÉNÉFICIAIRE : Bruno Sobrino",
+                "➤ BÉNÉFICIAIRE : Aymane Touzani",
                 "➤ CONCEPT : SOUTIEN",
-                "➤ PAYPAL : https://www.paypal.me/TheShadowBrokers133",
+                "➤ PAYPAL : https://www.paypal.me/tzaym1",
                 "👉🏻 CONTACTEZ-NOUS EN CAS DE BESOIN",
                 "PLUS DE DONNÉES ET POUR REMERCIER",
-                "wa.me/5219992095479"
+                "wa.me/212660131536"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATIONS - ÉTAT />*_",
-                "▢ *Prop. :* Bruno Sobrino",
-                "▢ *WA :* +5219992095479",
-                "▢ *PayPal :* paypal.me/TheShadowBrokers133",
+                "▢ *Prop. :* Aymane Touzani",
+                "▢ *WA :* +212660131536",
+                "▢ *PayPal :* paypal.me/tzaym1",
                 "▢ *Ping :*",
                 "▢ *Temps d'activité :*",
                 "▢ *Préfixe :*",
@@ -2447,12 +2447,12 @@
             "texto1": [
                 "_*< INFORMATIONS - DÉPÔT />*_",
                 "▢ *Nom :*",
-                "TheMystic-Bot-MD",
+                "Hardy-Bot",
                 "▢ *Visiteurs :*",
                 "▢ *Taille :*",
                 "▢ *Dernière mise à jour :*",
                 "▢ *URL :*",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+                "https://github.com/HardyOfc/Hardy-Bot",
                 "Forks ·",
                 "Étoiles ·",
                 "Problèmes\n\n",
@@ -2575,7 +2575,7 @@
         },
         "menu_menu": {
             "texto1": [
-                "LE MYSTIQUE - BOT",
+                "HARDY - BOT",
                 "▢ *Bonjour,*",
                 "_*< VOS STATISTIQUES />*_",
                 "▢ *Niveau :* ",
@@ -3049,7 +3049,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamants* 💎",
                 "Jetons* 🪙",
-                "MysticCoins* 👾",
+                "Coins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3058,7 +3058,7 @@
             "texto1": "『🚓』LA POLICE VOUS A PRIS SUR LE FAIT, VOUS ÊTES EN DIFFICULTÉ, VOUS AVEZ PERDU :",
             "texto2": [
                 "💎 Diamants",
-                "👾 Pièces Mystiques"
+                "👾 Coins"
             ],
             "texto3": [
                 "《💰》Vous avez volé à",
@@ -3511,7 +3511,7 @@
             "texto11": [
                 "[ ⚠️ ] Avertissement",
                 "[ ⚠️ ] Avertissement",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
+                "https://github.com/HardyOfc/Hardy-Bot"
             ]
         },
         "participantsUpdate": {
@@ -3535,16 +3535,16 @@
             ]
         }
     },
-    "BK9": {
+    "HARDY": {
+        "AI": {
+            "gpt4text": "Veuillez entrer du texte, exemple : \n.bard Bonjour, comment ça va?",
+            "geminitext": "Veuillez entrer du texte, exemple : \n.bard Bonjour, comment ça va?",
+            "aierr": "Une erreur s'est produite lors du traitement de votre demande.",
+            "geminiimgtext": "Répondez à une image et écrivez votre question\n\nExemple : .bk9img qui est-ce (n'oubliez pas de répondre à une image)",
+        },
         "BK9": {
-            "bk9dalletext": "Veuillez entrer du texte, par exemple\n .bk9img Une maison bleue dans une nature pittoresque",
-            "bk9dallewait": "chargement ...",
-            "bk9dalleerr": "Échec de la création de l'image. Veuillez réessayer plus tard.",
-            "bk9text": "Veuillez entrer du texte, exemple : \n.bk9 Bonjour, comment ça va?",
-            "bk9err": "Une erreur s'est produite lors du traitement de votre demande.",
-            "bk9imgtext": "Répondez à une image et écrivez votre question\n\nExemple : .bk9img qui est-ce (n'oubliez pas de répondre à une image)",
             "bk9LText_T": "Si vous le voulez sans personnalisation :\n.bk9short et mettez un lien\nExemple :\n.bk9short https://bk9.site/\nSi vous voulez qu'il soit personnalisé :\n.Short, mettez un lien + le mot\nExemple :\n.bk9short https://bk9.site/ + Suii",
-            "bk9LTaked_T": "Cette personnalisation a été prise, essayez une autre."
+            "bk9LTaked_T": "Cette personnalisation a été prise, essayez une autre." 
         }
 
         }
