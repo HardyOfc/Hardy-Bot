@@ -3839,23 +3839,12 @@
     },
     "HARDY": {
         "AI": {
-            "gpt4text": "يـرجـى إدخـال نـص، مـثـال\n .gpt4 مرحبا كيف حالك",
-            "aierr": "حدث خطأ أثناء معالجة طلبك.",
-            "geminitext": "يـرجـى إدخـال نـص، مـثـال\n.bard مرحبا كيف حالك",
-            "geminiimgtext": "قم بالرد على صورة واكتب سؤالك\n\nمثال : .bardimg من هذا ( لا تنسى ترد على صورة )"
+            "gpt4text": "Please enter text, for example\n .gpt4 Hello. how are you",
+            "geminitext": "Please enter text, example : \n.bard Hello how are you?",
+            "aierr": "An error occurred while processing your request.",
+            "geminiimgtext": "Reply to an image and write your question\n\nExample: .bk9img who is this (don’t forget to respond to an image)",
         },
         "BK9": {
-            "bk9LText_T": "لو تبغاه بدون تخصيص سوي :\n. اختصار وحط رابط\nمثال :\n.اختصار https://bk9.site/\nلو تبغاه بتخصيص سوي :\n.اختصار حط رابط + كلمة\nمثال :\n.اختصار https://bk9.site/ + قروب_الملصقات",
-            "bk9LTaked_T": "هذا التخصيص مأخوذ، جرب اخر."
-        }
-    "BK9": {
-        "BK9": {
-            "bk9dalletext": "Please enter text, for example\n .bk9img A blue house in a picturesque nature",
-            "bk9dallewait": "loading ...",
-            "bk9dalleerr": "Failed to create image. Please try again later.",
-            "bk9text": "Please enter text, example : \n.bk9 Hello how are you?",
-            "bk9err": "An error occurred while processing your request.",
-            "bk9imgtext": "Reply to an image and write your question\n\nExample: .bk9img who is this (don’t forget to respond to an image)",
             "bk9LText_T": "If you want it without customization,:\n.bk9short and put a link\nExample:\n.bk9short https://bk9.site/\nIf you want it to be customized :\n.Short, put a link + the word\nExample:\n.bk9short https://bk9.site/ + Suii",
             "bk9LTaked_T": "This customization has been taken, try another one."
         }
