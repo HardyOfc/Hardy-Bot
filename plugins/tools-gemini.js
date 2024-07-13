@@ -20,10 +20,10 @@ const handler = async (m, {conn, text, command}) => {
         const respuestaAPI = BK8.BK9;
         conn.reply(m.chat, respuestaAPI, m);
       } else {
-        throw `${tradutor.gpt4err}`;
+        throw `${tradutor.aierr}`;
       }
     } catch (error) {
-      throw `${tradutor.gpt4err}`;
+      throw `${tradutor.aierr}`;
     }
   } else if (command === 'gemini' || command === 'bard') {
     if (!text) throw `${tradutor.geminitext}`;
@@ -37,10 +37,10 @@ const handler = async (m, {conn, text, command}) => {
         const respuestaAPI = BK8.BK9;
         conn.reply(m.chat, respuestaAPI, m);
       } else {
-        throw `${tradutor.geminierr}`;
+        throw `${tradutor.aierr}`;
       }
     } catch (error) {
-      throw `${tradutor.geminierr}`;
+      throw `${tradutor.aierr}`;
     }
   } else if (command === 'geminiimg' || command === 'bardimg') {
     let BK7 = m.quoted ? m.quoted : m;
