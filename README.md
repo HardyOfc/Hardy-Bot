@@ -1,9 +1,9 @@
-# `𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏`
+# `H A R D Y  -  B O T`
 
 ------------------
 > **AVISO**: Yo "Bruno Sobrino", me he retirado de todo lo relacionado con el bot o temas similares, por lo que en algún momento quedará obsoleto y/o algunos comandos dejarán de funcionar. Agradezco su preferencia durante el recorrido por este mundo de los bots.
 
-> TheMystic-Bot-MD pasa a quedar en manos de colaboradores, y como principal representante Aiden_NotLogic.
+> Hardy-Bot pasa a quedar en manos de colaboradores, y como principal representante Aiden_NotLogic.
 ------------------
 
 ### `▢ CUENTAS OFICIALES`
@@ -20,22 +20,22 @@
 
 > [ ℹ️ ] En los grupos de soporte no se permiten bots.
 
- ### `▢ BOTS OFICIALES (INACTIVOS)`
+ ### `▢ OFFICIAL BOTS (ACTIVE)`
 
 
-<a href="https://api.whatsapp.com/send/?phone=5219991402134&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=212774265928&text=/menu&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(ACTIVE)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://api.whatsapp.com/send/?phone=5219993404349&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=212778513302&text=/menu&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(ACTIVE)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `▢ DONAR`
-- Agradece con una donación voluntaria haciendo [clic aquí](https://www.paypal.me/TheShadowBrokers133)
+### `▢ DONATE`
+- Agradece con una donación voluntaria haciendo [clic aquí](https://www.paypal.me/tzaym1)
 
 ### `▢ PLUGINS`
 - Tienes ideas de plugins o ¿quieres obtener mas plugins? entonces hace [clic aquí](https://github.com/theh2so4/Mystic-Plugins)
 
 ### `▢ AJUSTES`
-- Clona el repositorio haciendo [clic aquí](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- ¿Quieres cambiar el número del propietario? haz [clic aquí](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+- Clona el repositorio haciendo [clic aquí](https://github.com/HardyOfc/Hardy-Bot/fork)
+- ¿Quieres cambiar el número del propietario? haz [clic aquí](https://github.com/HardyOfc/Hardy-Bot/blob/master/config.js)
 
 ### `▢ ACTIVAR EN FLAREXCLOUD`
 <a href="https://www.flarex.cloud"><img src="https://cdn.flarex.cloud/deploy.png" height="60px"></a>
@@ -83,7 +83,7 @@
   
 ### `▢ ACTIVAR EN REPLIT`
 
-[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD) 
+[![Run on Repl.it](https://repl.it/badge/github/BrunoSobrino/TheMystic-Bot-MD)](https://repl.it/github/HardyOfc/Hardy-Bot) 
   
 ### `▢ ACTIVAR EN RENDER`
 
