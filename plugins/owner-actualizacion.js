@@ -6,7 +6,7 @@ import axios from 'axios';
 let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
-const owner = 'HardyOfc';
+const owner = 'GX004';
 const repo = 'Hardy-Bot';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   const datas = global
